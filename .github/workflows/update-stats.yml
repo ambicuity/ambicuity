@@ -1,0 +1,113 @@
+name: Update Repository Stats
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Update Repository Showcase
+      run: |
+        # Create a simple script to update repository stats
+        cat > update_repos.py << 'EOF'
+        import urllib.request
+        import json
+        import re
+        from datetime import datetime
+        
+        def fetch_repos():
+            try:
+                url = "https://api.github.com/users/ambicuity/repos?sort=updated&per_page=8&type=public"
+                with urllib.request.urlopen(url) as response:
+                    return json.loads(response.read().decode())
+            except Exception as e:
+                print(f"Error fetching repos: {e}")
+                return []
+        
+        def update_readme():
+            with open('README.md', 'r') as f:
+                content = f.read()
+            
+            repos = fetch_repos()
+            
+            # Generate repository table
+            repo_section = "\n<div align=\"center\">\n\n"
+            repo_section += "### 🏆 Latest Public Repositories\n\n"
+            
+            if repos:
+                repo_section += "| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |\n"
+                repo_section += "|---------------|-----------------|-------------|----------|----------|\n"
+                
+                for repo in repos[:6]:  # Show top 6 repositories
+                    name = repo['name']
+                    desc = (repo['description'] or 'No description')[:60]
+                    if len(repo['description'] or '') > 60:
+                        desc += '...'
+                    lang = repo['language'] or 'N/A'
+                    stars = repo['stargazers_count']
+                    forks = repo['forks_count']
+                    url = repo['html_url']
+                    
+                    repo_section += f"| [**{name}**]({url}) | {desc} | `{lang}` | {stars} | {forks} |\n"
+                
+                repo_section += f"\n*🔄 Showing {min(len(repos), 6)} of {len(repos)} public repositories*\n"
+            else:
+                repo_section += "*📁 Repository showcase will be populated automatically*\n"
+            
+            repo_section += "\n</div>\n\n"
+            
+            # Update the section between markers
+            start_marker = "<!-- FEATURED_PROJECTS_START -->"
+            end_marker = "<!-- FEATURED_PROJECTS_END -->"
+            
+            start_idx = content.find(start_marker)
+            end_idx = content.find(end_marker)
+            
+            if start_idx != -1 and end_idx != -1:
+                new_content = (
+                    content[:start_idx + len(start_marker)] +
+                    repo_section +
+                    content[end_idx:]
+                )
+                
+                # Update timestamp
+                timestamp = datetime.now().strftime("%Y-%m-%d")
+                new_content = re.sub(
+                    r'<!-- LAST_UPDATED_START -->.*?<!-- LAST_UPDATED_END -->',
+                    f'<!-- LAST_UPDATED_START -->{timestamp}<!-- LAST_UPDATED_END -->',
+                    new_content
+                )
+                
+                with open('README.md', 'w') as f:
+                    f.write(new_content)
+                
+                print("✅ README updated successfully!")
+            else:
+                print("❌ Could not find update markers in README")
+        
+        update_readme()
+        EOF
+        
+        python3 update_repos.py
+        
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🚀 Auto-update repository showcase and stats"
+          git push
+        fi
