@@ -82,11 +82,17 @@
 
 All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.
 
+### 🏆 Latest Public Repositories
+
+| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
+|---------------|-----------------|-------------|----------|----------|
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | ✨ My GitHub profile README with auto-updating showcase | Markdown | 0 | 0 |
+
+*🔄 Repository showcase automatically updated via GitHub Actions*
+
+*📁 More repositories will appear here as they become available*
+
 </div>
-
-<!-- This section will be automatically populated by GitHub Actions -->
-**📁 Repository Showcase:** *Automatically updated with latest public repositories*
-
 <!-- FEATURED_PROJECTS_END -->
 
 ## 🌍 Community Involvement
@@ -108,7 +114,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions -->
+🎯 Recent activity will be automatically updated here via GitHub Actions
+- 🔄 This section updates every 6 hours with latest GitHub activity
+- 🤖 Powered by [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+- 📊 Shows commits, PRs, issues, and other GitHub interactions
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
@@ -140,7 +149,7 @@ If you find my projects helpful, consider supporting my work!
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START --><!-- LAST_UPDATED_END -->*
+*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-07-24<!-- LAST_UPDATED_END -->*
 
 **🎯 Fun Stats:** 
 - 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
