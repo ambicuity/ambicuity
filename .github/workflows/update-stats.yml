@@ -39,12 +39,15 @@ jobs:
                 content = f.read()
             
             repos = fetch_repos()
+            print(f"📊 Found {len(repos)} repositories")
             
             # Generate repository table
             repo_section = "\n<div align=\"center\">\n\n"
-            repo_section += "### 🏆 Latest Public Repositories\n\n"
+            repo_section += "### 🌟 Discover My Work\n\n"
+            repo_section += "All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.\n\n"
             
             if repos:
+                repo_section += "### 🏆 Latest Public Repositories\n\n"
                 repo_section += "| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |\n"
                 repo_section += "|---------------|-----------------|-------------|----------|----------|\n"
                 
@@ -60,9 +63,10 @@ jobs:
                     
                     repo_section += f"| [**{name}**]({url}) | {desc} | `{lang}` | {stars} | {forks} |\n"
                 
-                repo_section += f"\n*🔄 Showing {min(len(repos), 6)} of {len(repos)} public repositories*\n"
+                repo_section += f"\n*🔄 Showing {min(len(repos), 6)} of {len(repos)} public repositories - automatically updated via GitHub Actions*\n"
             else:
-                repo_section += "*📁 Repository showcase will be populated automatically*\n"
+                repo_section += "### 📁 Repository Showcase\n\n"
+                repo_section += "*📁 Repository showcase will appear here once public repositories are available*\n"
             
             repo_section += "\n</div>\n\n"
             

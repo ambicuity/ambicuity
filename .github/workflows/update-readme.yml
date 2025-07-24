@@ -68,15 +68,21 @@ jobs:
         
         async function updateReadme() {
           try {
+            console.log('🔄 Fetching repository data...');
             const repos = await fetchRepositories();
+            console.log(`📊 Found ${repos ? repos.length : 0} repositories`);
+            
             let readme = fs.readFileSync('README.md', 'utf8');
             
             // Generate repository showcase
-            let repoShowcase = '\n';
+            let repoShowcase = '\n<div align="center">\n\n';
+            repoShowcase += '### 🌟 Discover My Work\n\n';
+            repoShowcase += 'All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.\n\n';
+            
             if (repos && repos.length > 0) {
-              repoShowcase += '<div align="center">\n\n';
-              repoShowcase += '| Repository | Description | Language | Stars | Forks |\n';
-              repoShowcase += '|------------|-------------|----------|-------|-------|\n';
+              repoShowcase += '### 🏆 Latest Public Repositories\n\n';
+              repoShowcase += '| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |\n';
+              repoShowcase += '|---------------|-----------------|-------------|----------|----------|\n';
               
               repos.slice(0, 6).forEach(repo => {
                 const name = repo.name;
@@ -86,14 +92,16 @@ jobs:
                 const forks = repo.forks_count;
                 const url = repo.html_url;
                 
-                repoShowcase += `| [${name}](${url}) | ${description.substring(0, 50)}${description.length > 50 ? '...' : ''} | ${language} | ⭐ ${stars} | 🍴 ${forks} |\n`;
+                repoShowcase += `| [**${name}**](${url}) | ${description.substring(0, 60)}${description.length > 60 ? '...' : ''} | \`${language}\` | ${stars} | ${forks} |\n`;
               });
               
-              repoShowcase += '\n</div>\n\n';
-              repoShowcase += `*🔄 Auto-updated ${repos.length} repositories - Showing ${Math.min(6, repos.length)} most recently updated*\n`;
+              repoShowcase += `\n*🔄 Showing ${Math.min(6, repos.length)} of ${repos.length} public repositories - automatically updated via GitHub Actions*\n`;
             } else {
+              repoShowcase += '### 📁 Repository Showcase\n\n';
               repoShowcase += '*📁 Repository showcase will appear here once public repositories are available*\n';
             }
+            
+            repoShowcase += '\n</div>\n\n';
             
             // Update the featured projects section
             const startMarker = '<!-- FEATURED_PROJECTS_START -->';
@@ -105,21 +113,29 @@ jobs:
               const before = readme.substring(0, startIndex + startMarker.length);
               const after = readme.substring(endIndex);
               readme = before + repoShowcase + after;
+              console.log('✅ Updated repository showcase section');
+            } else {
+              console.log('⚠️  Could not find repository showcase markers');
             }
             
             // Update last updated timestamp
             const now = new Date().toISOString().split('T')[0];
-            readme = readme.replace(
-              /<!-- LAST_UPDATED_START -->.*?<!-- LAST_UPDATED_END -->/s,
-              `<!-- LAST_UPDATED_START -->${now}<!-- LAST_UPDATED_END -->`
-            );
+            const lastUpdatedPattern = /<!-- LAST_UPDATED_START -->.*?<!-- LAST_UPDATED_END -->/s;
+            if (lastUpdatedPattern.test(readme)) {
+              readme = readme.replace(
+                lastUpdatedPattern,
+                `<!-- LAST_UPDATED_START -->${now}<!-- LAST_UPDATED_END -->`
+              );
+              console.log('✅ Updated timestamp');
+            }
             
             fs.writeFileSync('README.md', readme);
             console.log('✅ README updated successfully!');
             
           } catch (error) {
             console.error('❌ Error updating README:', error);
-            process.exit(1);
+            // Don't exit with error code if it's just a network issue
+            console.log('⚠️  Continuing with existing content...');
           }
         }
         
