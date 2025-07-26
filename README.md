@@ -86,13 +86,17 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | ✨ My GitHub profile README with auto-updating showcase | Markdown | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 0 | 0 |
+| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description | `Python` | 0 | 0 |
+| [**achievement-list**](https://github.com/ambicuity/achievement-list) | No description | `Python` | 0 | 0 |
 
-*🔄 Repository showcase automatically updated via GitHub Actions*
-
-*📁 More repositories will appear here as they become available*
+*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
+
 <!-- FEATURED_PROJECTS_END -->
 
 ## 🌍 Community Involvement
@@ -149,7 +153,7 @@ If you find my projects helpful, consider supporting my work!
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-07-24<!-- LAST_UPDATED_END -->*
+*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-07-26<!-- LAST_UPDATED_END -->*
 
 **🎯 Fun Stats:** 
 - 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
