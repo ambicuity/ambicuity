@@ -155,8 +155,8 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "riteshrana36@gmail.com"
+        git config --local user.name "ambicuity"
         git add README.md
         if git diff --staged --quiet; then
           echo "No changes to commit"
