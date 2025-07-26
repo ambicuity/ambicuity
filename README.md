@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 0 | 0 |
-| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description | `Python` | 0 | 0 |
-| [**achievement-list**](https://github.com/ambicuity/achievement-list) | No description | `Python` | 0 | 0 |
+| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
+| [**achievement-list**](https://github.com/ambicuity/achievement-list) | No description available | `Python` | 0 | 0 |
 
-*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-🎯 Recent activity will be automatically updated here via GitHub Actions
-- 🔄 This section updates every 6 hours with latest GitHub activity
-- 🤖 Powered by [github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-- 📊 Shows commits, PRs, issues, and other GitHub interactions
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/ambicuity/pull/3) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
+2. 🎉 Merged PR [#3](https://github.com/ambicuity/cross-platform-automation-tools/pull/3) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+3. 🎉 Merged PR [#4](https://github.com/ambicuity/cross-platform-automation-tools/pull/4) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/cross-platform-automation-tools/pull/1) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
