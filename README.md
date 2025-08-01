@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**answer**](https://github.com/ambicuity/answer) | No description available | `Awk` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 0 | 0 |
-| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description | `Python` | 0 | 0 |
-| [**achievement-list**](https://github.com/ambicuity/achievement-list) | No description | `Python` | 0 | 0 |
+| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
 
-*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
