@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**immich_upload**](https://github.com/ambicuity/immich_upload) | No description | `TypeScript` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**immich_upload**](https://github.com/ambicuity/immich_upload) | No description available | `TypeScript` | 0 | 0 |
 | [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 1 | 0 |
-| [**answer**](https://github.com/ambicuity/answer) | No description | `Awk` | 0 | 0 |
 
-*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ambicuity/trackpad-weight/pull/10) in [ambicuity/trackpad-weight](https://github.com/ambicuity/trackpad-weight)
-2. 🎉 Merged PR [#9](https://github.com/ambicuity/trackpad-weight/pull/9) in [ambicuity/trackpad-weight](https://github.com/ambicuity/trackpad-weight)
-3. 🎉 Merged PR [#8](https://github.com/ambicuity/trackpad-weight/pull/8) in [ambicuity/trackpad-weight](https://github.com/ambicuity/trackpad-weight)
-4. 🎉 Merged PR [#7](https://github.com/ambicuity/trackpad-weight/pull/7) in [ambicuity/trackpad-weight](https://github.com/ambicuity/trackpad-weight)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/New-Grad-Jobs/pull/3) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+2. 🎉 Merged PR [#2](https://github.com/ambicuity/New-Grad-Jobs/pull/2) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+3. 🗣 Commented on [#2](https://github.com/ambicuity/New-Grad-Jobs/pull/2#issuecomment-3173267848) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/New-Grad-Jobs/pull/1) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
