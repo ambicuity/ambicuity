@@ -87,9 +87,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**immich_upload**](https://github.com/ambicuity/immich_upload) | No description available | `TypeScript` | 0 | 0 |
 | [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 1 | 0 |
 
