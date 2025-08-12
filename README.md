@@ -82,9 +82,18 @@
 
 All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.
 
-### 📁 Repository Showcase
+### 🏆 Latest Public Repositories
 
-*📁 Repository showcase will appear here once public repositories are available*
+| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
+|---------------|-----------------|-------------|----------|----------|
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description | `Python` | 0 | 0 |
+| [**immich_upload**](https://github.com/ambicuity/immich_upload) | No description | `TypeScript` | 0 | 0 |
+| [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 1 | 0 |
+
+*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
