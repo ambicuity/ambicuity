@@ -88,10 +88,10 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**build-something**](https://github.com/ambicuity/build-something) | No description available | `N/A` | 0 | 0 |
-| [**trackCTA**](https://github.com/ambicuity/trackCTA) | This user-friendly platform provides accurate arrival times,... | `JavaScript` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**build-something**](https://github.com/ambicuity/build-something) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**trackCTA**](https://github.com/ambicuity/trackCTA) | This user-friendly platform provides accurate arrival times,... | `JavaScript` | 0 | 0 |
 
 *🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
