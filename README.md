@@ -88,8 +88,8 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**build-something**](https://github.com/ambicuity/build-something) | No description available | `Python` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**trackCTA**](https://github.com/ambicuity/trackCTA) | This user-friendly platform provides accurate arrival times,... | `JavaScript` | 0 | 0 |
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/New-Grad-Jobs/pull/3) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-2. 🎉 Merged PR [#2](https://github.com/ambicuity/New-Grad-Jobs/pull/2) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-3. 🗣 Commented on [#2](https://github.com/ambicuity/New-Grad-Jobs/pull/2#issuecomment-3173267848) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/New-Grad-Jobs/pull/1) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+1. 🎉 Merged PR [#5](https://github.com/ambicuity/build-something/pull/5) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
+2. 🎉 Merged PR [#4](https://github.com/ambicuity/build-something/pull/4) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
+3. 🎉 Merged PR [#3](https://github.com/ambicuity/build-something/pull/3) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
+4. 🎉 Merged PR [#3](https://github.com/ambicuity/New-Grad-Jobs/pull/3) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
@@ -153,7 +153,7 @@ If you find my projects helpful, consider supporting my work!
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-14<!-- LAST_UPDATED_END -->*
+*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-15<!-- LAST_UPDATED_END -->*
 
 **🎯 Fun Stats:** 
 - 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
