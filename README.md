@@ -86,10 +86,10 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | No description available | `Python` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**build-something**](https://github.com/ambicuity/build-something) | No description available | `Python` | 0 | 0 |
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ambicuity/gujarati-python/pull/1) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🎉 Merged PR [#6](https://github.com/ambicuity/build-something/pull/6) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
-3. 🎉 Merged PR [#5](https://github.com/ambicuity/build-something/pull/5) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
-4. 🎉 Merged PR [#4](https://github.com/ambicuity/build-something/pull/4) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/gujarati-python/pull/3) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+2. 🎉 Merged PR [#2](https://github.com/ambicuity/gujarati-python/pull/2) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+3. 🎉 Merged PR [#1](https://github.com/ambicuity/gujarati-python/pull/1) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+4. 🎉 Merged PR [#6](https://github.com/ambicuity/build-something/pull/6) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
