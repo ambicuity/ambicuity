@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
-| [**How-to-Write-a-Good-Resume**](https://github.com/ambicuity/How-to-Write-a-Good-Resume) | No description available | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool**](https://github.com/ambicuity/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool) | No description available | `C++` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | No description available | `Python` | 0 | 0 |
+| [**Legacy-SAS-Process-Modernization-Python-**](https://github.com/ambicuity/Legacy-SAS-Process-Modernization-Python-) | No description available | `Python` | 0 | 0 |
+| [**Real-time-Data-Application-Performance-Monitor**](https://github.com/ambicuity/Real-time-Data-Application-Performance-Monitor) | No description available | `Python` | 0 | 0 |
 
 *🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/gujarati-python/pull/3) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🎉 Merged PR [#2](https://github.com/ambicuity/gujarati-python/pull/2) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-3. 🎉 Merged PR [#1](https://github.com/ambicuity/gujarati-python/pull/1) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🎉 Merged PR [#6](https://github.com/ambicuity/build-something/pull/6) in [ambicuity/build-something](https://github.com/ambicuity/build-something)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns/pull/3) in [ambicuity/Coding-Interview-Questions-and-Patterns](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns)
+2. 🎉 Merged PR [#2](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns/pull/2) in [ambicuity/Coding-Interview-Questions-and-Patterns](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns)
+3. 🎉 Merged PR [#1](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns/pull/1) in [ambicuity/Coding-Interview-Questions-and-Patterns](https://github.com/ambicuity/Coding-Interview-Questions-and-Patterns)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/How-to-Write-a-Good-Resume/pull/1) in [ambicuity/How-to-Write-a-Good-Resume](https://github.com/ambicuity/How-to-Write-a-Good-Resume)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
@@ -153,7 +153,7 @@ If you find my projects helpful, consider supporting my work!
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-20<!-- LAST_UPDATED_END -->*
+*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-21<!-- LAST_UPDATED_END -->*
 
 **🎯 Fun Stats:** 
 - 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
