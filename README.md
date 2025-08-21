@@ -88,10 +88,10 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
+| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
 
 *🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ambicuity/gujarati-python/pull/8) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🎉 Merged PR [#7](https://github.com/ambicuity/gujarati-python/pull/7) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-3. 🗣 Commented on [#7](https://github.com/ambicuity/gujarati-python/pull/7#issuecomment-3208504250) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🗣 Commented on [#7](https://github.com/ambicuity/gujarati-python/pull/7#issuecomment-3208498994) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+1. 🎉 Merged PR [#2](https://github.com/ambicuity/cross-platform-automation-tools/pull/2) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+2. 🎉 Merged PR [#11](https://github.com/ambicuity/gujarati-python/pull/11) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+3. 🎉 Merged PR [#10](https://github.com/ambicuity/gujarati-python/pull/10) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+4. 🎉 Merged PR [#9](https://github.com/ambicuity/gujarati-python/pull/9) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
