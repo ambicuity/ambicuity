@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
-| [**Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool**](https://github.com/ambicuity/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool) | No description available | `C++` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Legacy-SAS-Process-Modernization-Python-**](https://github.com/ambicuity/Legacy-SAS-Process-Modernization-Python-) | No description available | `Python` | 0 | 0 |
-| [**Real-time-Data-Application-Performance-Monitor**](https://github.com/ambicuity/Real-time-Data-Application-Performance-Monitor) | No description available | `Python` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description | `Python` | 0 | 0 |
+| [**Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool**](https://github.com/ambicuity/Automated-Tank-Gauge-Data-Processing-and-Reporting-Tool) | No description | `C++` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**Legacy-SAS-Process-Modernization-Python-**](https://github.com/ambicuity/Legacy-SAS-Process-Modernization-Python-) | No description | `Python` | 0 | 0 |
 
-*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
+*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
