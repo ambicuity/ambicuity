@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Natural-Language-Driven-CLI**](https://github.com/ambicuity/Natural-Language-Driven-CLI) | No description | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description | `Python` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description | `Python` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Natural-Language-Driven-CLI**](https://github.com/ambicuity/Natural-Language-Driven-CLI) | No description available | `Python` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
 
-*🔄 Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -118,10 +118,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## 🎨 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ambicuity/cross-platform-automation-tools/pull/2) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
-2. 🎉 Merged PR [#11](https://github.com/ambicuity/gujarati-python/pull/11) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-3. 🎉 Merged PR [#10](https://github.com/ambicuity/gujarati-python/pull/10) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🎉 Merged PR [#9](https://github.com/ambicuity/gujarati-python/pull/9) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/Natural-Language-Driven-CLI/pull/1) in [ambicuity/Natural-Language-Driven-CLI](https://github.com/ambicuity/Natural-Language-Driven-CLI)
+2. 🎉 Merged PR [#5](https://github.com/ambicuity/cross-platform-automation-tools/pull/5) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+3. 🎉 Merged PR [#2](https://github.com/ambicuity/cross-platform-automation-tools/pull/2) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+4. 🎉 Merged PR [#11](https://github.com/ambicuity/gujarati-python/pull/11) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
 <!--END_SECTION:activity-->
 
 ## 📫 Connect With Me
