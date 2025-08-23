@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**test**](https://github.com/ambicuity/test) | No description available | `N/A` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Natural-Language-Driven-CLI**](https://github.com/ambicuity/Natural-Language-Driven-CLI) | No description available | `Python` | 0 | 0 |
-| [**cross-platform-automation-tools**](https://github.com/ambicuity/cross-platform-automation-tools) | No description available | `Python` | 0 | 0 |
 
 *🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -153,7 +153,7 @@ If you find my projects helpful, consider supporting my work!
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-22<!-- LAST_UPDATED_END -->*
+*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-23<!-- LAST_UPDATED_END -->*
 
 **🎯 Fun Stats:** 
 - 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
