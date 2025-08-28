@@ -1,21 +1,19 @@
-# Ambicuity Profile Configuration
+# Ritesh Rana Profile Configuration
 
 This configuration file allows easy customization of the GitHub profile README.
 
 ## Profile Settings
 
 ### Personal Information
-- **Name**: Ambicuity
+- **Name**: Ritesh Rana
 - **Tagline**: Full-Stack Developer | Open Source Enthusiast | Problem Solver
 - **Bio**: Passionate developer focused on creating innovative solutions and contributing to the open-source community.
-- **Quote**: "Turning ambiguous ideas into clear, elegant solutions"
+- **Quote**: "Turning complex ideas into elegant solutions"
 
 ### Contact Information
-- **Portfolio**: https://ambicuity.dev
-- **LinkedIn**: https://linkedin.com/in/ambicuity
-- **Twitter**: https://twitter.com/ambicuity
-- **Email**: contact@ambicuity.dev
-- **Discord**: https://discord.gg/ambicuity
+- **Portfolio**: https://riteshrana.engineer
+- **LinkedIn**: https://www.linkedin.com/in/riteshengineer
+- **Email**: riteshrana36@gmail.com
 
 ### Theme Settings
 - **Color Scheme**: Tokyo Night (dark blue theme)
@@ -24,37 +22,38 @@ This configuration file allows easy customization of the GitHub profile README.
 - **Background Color**: 0d1117
 
 ### Features Enabled
-- ✅ Dynamic repository showcase
-- ✅ GitHub stats and analytics
-- ✅ Activity graph
-- ✅ Social links and contact info
-- ✅ Skills and technology badges
-- ✅ Automatic updates via GitHub Actions
-- ✅ Community involvement section
-- ✅ Support/sponsorship links
+- Dynamic repository showcase
+- GitHub stats and analytics
+- Activity graph
+- Social links and contact info
+- Skills and technology badges
+- Automatic updates via GitHub Actions
+- Community involvement section
+- GitHub Breakout game integration
 
 ### Auto-Update Schedule
 - **Repository Stats**: Every 12 hours
 - **General Updates**: Every 6 hours
+- **Breakout Game**: Daily
 - **Manual Trigger**: Available via workflow_dispatch
 
 ### Security & Privacy
-- 🔒 Only public information displayed
-- 🔒 No sensitive data included
-- 🔒 External services used are reputable and safe
-- 🔒 All API calls are read-only
+- Only public information displayed
+- No sensitive data included
+- External services used are reputable and safe
+- All API calls are read-only
 
 ### Performance Optimizations
-- 📊 Optimized image sizes and formats
-- 🚀 Lightweight external dependencies
-- ⚡ Fast-loading badges and stats
-- 📱 Mobile-responsive design
+- Optimized image sizes and formats
+- Lightweight external dependencies
+- Fast-loading badges and stats
+- Mobile-responsive design
 
 ### Accessibility Features
-- 🌐 Screen reader friendly
-- 🎨 High contrast elements
-- 📖 Descriptive alt text
-- 🔗 Meaningful link text
+- Screen reader friendly
+- High contrast elements
+- Descriptive alt text
+- Meaningful link text
 
 ## Customization Guide
 
@@ -73,7 +72,11 @@ To customize this profile:
 ├── .github/
 │   └── workflows/
 │       ├── update-readme.yml       # Main update workflow
-│       └── update-stats.yml        # Repository stats workflow
+│       ├── update-stats.yml        # Repository stats workflow
+│       └── update-breakout.yml     # GitHub Breakout game workflow
+├── images/
+│   ├── breakout-light.svg          # Light theme breakout game
+│   └── breakout-dark.svg           # Dark theme breakout game
 ├── .gitignore                      # Git ignore rules
 └── PROFILE_CONFIG.md              # This configuration file
 ```
@@ -95,5 +98,6 @@ External services used:
 - **github-readme-streak-stats.herokuapp.com**: For streak statistics
 - **github-readme-activity-graph.vercel.app**: For activity graphs
 - **komarev.com/ghpvc**: For profile view counter
+- **cyprieng/github-breakout**: For interactive breakout game generation
 
 All services are lightweight and performance-optimized.

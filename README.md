@@ -1,30 +1,30 @@
 <div align="center">
 
-# Hi there, I'm Ambicuity! 👋
+# Hello, I'm Ritesh Rana
 
-### 🚀 Full-Stack Developer | 🌟 Open Source Enthusiast | 💡 Problem Solver
+### Full-Stack Developer | Open Source Enthusiast | Problem Solver
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ambicuity&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ambicuity)
 [![GitHub followers](https://img.shields.io/github/followers/ambicuity?label=Followers&style=social)](https://github.com/ambicuity?tab=followers)
 
 ---
 
-*"Turning ambiguous ideas into clear, elegant solutions"*
+*"Turning complex ideas into elegant solutions"*
 
 </div>
 
-## 💫 About Me
+## About Me
 
-🎯 Passionate developer focused on creating innovative solutions and contributing to the open-source community. I love exploring new technologies and building projects that make a difference.
+Passionate developer focused on creating innovative solutions and contributing to the open-source community. I love exploring new technologies and building projects that make a difference.
 
-- 🔭 **Currently working on:** Next-generation web applications and developer tools
-- 🌱 **Learning:** Advanced system design, cloud architecture, and emerging technologies
-- 👯 **Looking to collaborate on:** Open source projects, innovative startups, and community initiatives
-- 💬 **Ask me about:** Web development, system design, DevOps, and software architecture
-- 📫 **How to reach me:** [Contact details below](#-connect-with-me)
-- ⚡ **Fun fact:** I believe every complex problem has an elegant simple solution waiting to be discovered!
+- **Currently working on:** Next-generation web applications and developer tools
+- **Learning:** Advanced system design, cloud architecture, and emerging technologies
+- **Looking to collaborate on:** Open source projects, innovative startups, and community initiatives
+- **Ask me about:** Web development, system design, DevOps, and software architecture
+- **How to reach me:** [Contact details below](#connect-with-me)
+- **Fun fact:** I believe every complex problem has an elegant simple solution waiting to be discovered!
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -73,18 +73,18 @@
 
 </div>
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <!-- FEATURED_PROJECTS_START -->
 <div align="center">
 
-### 🌟 Discover My Work
+### Discover My Work
 
 All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.
 
-### 🏆 Latest Public Repositories
+### Latest Public Repositories
 
-| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |
+| Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
@@ -93,46 +93,64 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
 
-*🔄 Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
 <!-- FEATURED_PROJECTS_END -->
 
-## 🌍 Community Involvement
+## Community Involvement
 
-- 🤝 **Open Source Contributions:** Active contributor to various open-source projects
-- 📚 **Knowledge Sharing:** Writing technical articles and tutorials
-- 🎤 **Speaking:** Presenting at developer meetups and conferences
-- 👥 **Mentoring:** Helping fellow developers grow their skills
-- 🏆 **Hackathons:** Participating in coding competitions and innovation challenges
+- **Open Source Contributions:** Active contributor to various open-source projects
+- **Knowledge Sharing:** Writing technical articles and tutorials
+- **Speaking:** Presenting at developer meetups and conferences
+- **Mentoring:** Helping fellow developers grow their skills
+- **Hackathons:** Participating in coding competitions and innovation challenges
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-[![Ambicuity's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ambicuity&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ambicuity&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-## 🎨 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🗣 Commented on [#2](https://github.com/ambicuity/achievement-list/pull/2#issuecomment-3218197545) in [ambicuity/achievement-list](https://github.com/ambicuity/achievement-list)
-3. 🎉 Merged PR [#12](https://github.com/ambicuity/gujarati-python/pull/12) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/Natural-Language-Driven-CLI/pull/1) in [ambicuity/Natural-Language-Driven-CLI](https://github.com/ambicuity/Natural-Language-Driven-CLI)
-<!--END_SECTION:activity-->
-
-## 📫 Connect With Me
+## GitHub Breakout Game
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ambicuity.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ambicuity)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ambicuity)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ambicuity.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ambicuity)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+*Play Breakout with my GitHub contribution graph! The game is automatically generated and updated daily.*
+
+</div>
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+2. Commented on [#2](https://github.com/ambicuity/achievement-list/pull/2#issuecomment-3218197545) in [ambicuity/achievement-list](https://github.com/ambicuity/achievement-list)
+3. Merged PR [#12](https://github.com/ambicuity/gujarati-python/pull/12) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+4. Merged PR [#1](https://github.com/ambicuity/Natural-Language-Driven-CLI/pull/1) in [ambicuity/Natural-Language-Driven-CLI](https://github.com/ambicuity/Natural-Language-Driven-CLI)
+<!--END_SECTION:activity-->
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://riteshrana.engineer)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshengineer)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshrana36@gmail.com)
 
 </div>
 
@@ -140,24 +158,17 @@ All my public repositories are showcased below and automatically updated! Each p
 
 <div align="center">
 
-### 💝 Support My Work
-
-If you find my projects helpful, consider supporting my work!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ambicuity)
-[![GitHub Sponsors](https://img.shields.io/badge/-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ambicuity)
-
-### 🔥 Profile Summary
+### Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambicuity&theme=tokyonight" alt="Profile Summary"/>
 
 ---
 
-*✨ This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-28<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-28<!-- LAST_UPDATED_END -->*
 
-**🎯 Fun Stats:** 
-- 📚 Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
-- 👥 Total Followers: ![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=followers&query=followers&url=https://api.github.com/users/ambicuity&style=flat-square)
-- ⭐ Total Stars Earned: ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/ambicuity&style=flat-square)
+**Statistics:**
+- Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
+- Total Followers: ![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=followers&query=followers&url=https://api.github.com/users/ambicuity&style=flat-square)
+- Total Stars Earned: ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/ambicuity&style=flat-square)
 
 </div>
