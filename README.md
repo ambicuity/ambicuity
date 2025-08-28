@@ -115,7 +115,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 </div>
 
-## GitHub Breakout Game
+## 🎮 GitHub Breakout Game
 
 <div align="center">
 
@@ -128,10 +128,27 @@ All my public repositories are showcased below and automatically updated! Each p
     media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <img alt="Interactive Breakout Game" src="images/breakout-light.svg" width="100%" style="max-width: 822px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </picture>
 
-*Play Breakout with my GitHub contribution graph! The game is automatically generated and updated daily.*
+<p>
+  🕹️ <strong>Interactive Breakout Game</strong> powered by my GitHub contributions!<br>
+  <em>Each block represents a day of coding - break them all!</em>
+</p>
+
+<details>
+<summary>🎯 <strong>Game Stats & Info</strong></summary>
+
+- **🎨 Dynamic Generation**: Game updates daily based on real GitHub activity
+- **🌈 Color Coding**: Contribution intensity determines block colors  
+- **⚡ Interactive Elements**: Animated paddle and ball physics
+- **🎪 Themes**: Supports both light and dark mode
+- **📊 Data Source**: Built from actual GitHub contribution graph
+- **🔄 Loading State**: Shows "Loading..." animation when game is being generated
+
+*Game automatically regenerates every 24 hours with fresh contribution data. If you see "Breakout Game Loading..." it means the interactive version is being generated from the latest GitHub contributions!*
+
+</details>
 
 </div>
 
