@@ -79,12 +79,12 @@ jobs:
             
             // Generate repository showcase
             let repoShowcase = '\n<div align="center">\n\n';
-            repoShowcase += '### 🌟 Discover My Work\n\n';
+            repoShowcase += '### Discover My Work\n\n';
             repoShowcase += 'All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.\n\n';
             
             if (repos && repos.length > 0) {
-              repoShowcase += '### 🏆 Latest Public Repositories\n\n';
-              repoShowcase += '| 📚 Repository | 📝 Description | 💻 Language | ⭐ Stars | 🍴 Forks |\n';
+              repoShowcase += '### Latest Public Repositories\n\n';
+              repoShowcase += '| Repository | Description | Language | Stars | Forks |\n';
               repoShowcase += '|---------------|-----------------|-------------|----------|----------|\n';
               
               repos.slice(0, 6).forEach(repo => {
@@ -98,10 +98,10 @@ jobs:
                 repoShowcase += `| [**${name}**](${url}) | ${description.substring(0, 60)}${description.length > 60 ? '...' : ''} | \`${language}\` | ${stars} | ${forks} |\n`;
               });
               
-              repoShowcase += `\n*🔄 Showing ${Math.min(6, repos.length)} of ${repos.length} public repositories - automatically updated via GitHub Actions*\n`;
+              repoShowcase += `\n*Showing ${Math.min(6, repos.length)} of ${repos.length} public repositories - automatically updated via GitHub Actions*\n`;
             } else {
-              repoShowcase += '### 📁 Repository Showcase\n\n';
-              repoShowcase += '*📁 Repository showcase will appear here once public repositories are available*\n';
+              repoShowcase += '### Repository Showcase\n\n';
+              repoShowcase += '*Repository showcase will appear here once public repositories are available*\n';
             }
             
             repoShowcase += '\n</div>\n\n';
@@ -156,11 +156,11 @@ jobs:
     - name: Commit and push changes
       run: |
         git config --local user.email "riteshrana36@gmail.com"
-        git config --local user.name "ambicuity"
+        git config --local user.name "Ritesh Rana"
         git add README.md
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "🤖 Auto-update profile README"
+          git commit -m "Auto-update profile README"
           git push
         fi
