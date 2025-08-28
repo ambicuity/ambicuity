@@ -3,7 +3,13 @@ name: Generate Breakout SVG
 on:
   schedule:
     - cron: "0 0 * * *"  # Run daily at midnight
-  workflow_dispatch:
+  workflow_dispatch:  # Allow manual triggering
+    inputs:
+      force_loading:
+        description: 'Force loading state (for testing)'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
   generate-svg:
@@ -16,16 +22,43 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Set loading state
+        run: |
+          # Ensure loading SVGs are present as fallbacks
+          cp images/breakout-light-loading.svg images/breakout-light.svg
+          cp images/breakout-dark-loading.svg images/breakout-dark.svg
+          echo "🔄 Set to loading state"
+
+      - name: Generate interactive breakout SVG
+        id: generate
+        if: ${{ inputs.force_loading != 'true' }}
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
+        continue-on-error: true
 
-      - name: Move generated SVGs
+      - name: Move generated SVGs if successful
+        if: steps.generate.outcome == 'success'
         run: |
           mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
+          if [ -f "output/light.svg" ]; then
+            mv output/light.svg images/breakout-light.svg
+            echo "✅ Light theme game generated successfully"
+          fi
+          if [ -f "output/dark.svg" ]; then
+            mv output/dark.svg images/breakout-dark.svg
+            echo "✅ Dark theme game generated successfully"
+          fi
+        
+      - name: Fallback to loading state if generation failed
+        if: ${{ steps.generate.outcome != 'success' || inputs.force_loading == 'true' }}
+        run: |
+          if [ "${{ inputs.force_loading }}" == "true" ]; then
+            echo "🧪 Force loading state enabled for testing"
+          else
+            echo "⚠️  Game generation failed, keeping loading state"
+          fi
+          echo "This ensures users see a proper loading message instead of broken images"
 
       - name: Configure git
         run: |
@@ -35,5 +68,15 @@ jobs:
       - name: Commit and push SVGs
         run: |
           git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "Update breakout SVGs" || echo "No changes to commit"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            if [ "${{ inputs.force_loading }}" == "true" ]; then
+              git commit -m "🧪 Test: Set breakout game to loading state"
+            elif [ "${{ steps.generate.outcome }}" == "success" ]; then
+              git commit -m "🎮 Update interactive breakout game from GitHub contributions"
+            else
+              git commit -m "🔄 Fallback: Set breakout game to loading state"
+            fi
+            git push
+          fi
