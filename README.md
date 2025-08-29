@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🗣 Commented on [#2](https://github.com/ambicuity/achievement-list/pull/2#issuecomment-3218197545) in [ambicuity/achievement-list](https://github.com/ambicuity/achievement-list)
-3. 🎉 Merged PR [#12](https://github.com/ambicuity/gujarati-python/pull/12) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/Natural-Language-Driven-CLI/pull/1) in [ambicuity/Natural-Language-Driven-CLI](https://github.com/ambicuity/Natural-Language-Driven-CLI)
+1. 🎉 Merged PR [#5](https://github.com/ambicuity/ambicuity/pull/5) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
+2. 🎉 Merged PR [#4](https://github.com/ambicuity/ambicuity/pull/4) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
+3. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+4. 🗣 Commented on [#2](https://github.com/ambicuity/achievement-list/pull/2#issuecomment-3218197545) in [ambicuity/achievement-list](https://github.com/ambicuity/achievement-list)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
