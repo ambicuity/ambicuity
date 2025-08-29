@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description | `Python` | 0 | 1 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description | `Python` | 0 | 0 |
-| [**gujarati-python**](https://github.com/ambicuity/gujarati-python) | ગુજરાતી પાઈથન (Gujarati Python) એક ઓપન-સોર્સ પ્રોજેક્ટ છે, જ... | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 1 |
+| [**Cheminformatics-Data-Management-System**](https://github.com/ambicuity/Cheminformatics-Data-Management-System) | No description available | `Python` | 0 | 0 |
+| [**Cloud-Native-Microservice-for-Developer-Tools**](https://github.com/ambicuity/Cloud-Native-Microservice-for-Developer-Tools) | No description available | `Go` | 0 | 0 |
+| [**Distributed-System-Control-Plane**](https://github.com/ambicuity/Distributed-System-Control-Plane) | No description available | `C++` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ambicuity/ambicuity/pull/5) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
-2. 🎉 Merged PR [#4](https://github.com/ambicuity/ambicuity/pull/4) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
-3. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🗣 Commented on [#2](https://github.com/ambicuity/achievement-list/pull/2#issuecomment-3218197545) in [ambicuity/achievement-list](https://github.com/ambicuity/achievement-list)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/Distributed-System-Control-Plane/pull/1) in [ambicuity/Distributed-System-Control-Plane](https://github.com/ambicuity/Distributed-System-Control-Plane)
+2. 🎉 Merged PR [#5](https://github.com/ambicuity/ambicuity/pull/5) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
+3. 🎉 Merged PR [#4](https://github.com/ambicuity/ambicuity/pull/4) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
+4. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
