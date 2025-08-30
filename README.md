@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 1 |
-| [**Cheminformatics-Data-Management-System**](https://github.com/ambicuity/Cheminformatics-Data-Management-System) | No description available | `Python` | 0 | 0 |
-| [**Cloud-Native-Microservice-for-Developer-Tools**](https://github.com/ambicuity/Cloud-Native-Microservice-for-Developer-Tools) | No description available | `Go` | 0 | 0 |
-| [**Distributed-System-Control-Plane**](https://github.com/ambicuity/Distributed-System-Control-Plane) | No description available | `C++` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Automated-Revenue-Forecasting-and-Reporting-System**](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Cheminformatics-Data-Management-System**](https://github.com/ambicuity/Cheminformatics-Data-Management-System) | No description available | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ambicuity/Distributed-System-Control-Plane/pull/1) in [ambicuity/Distributed-System-Control-Plane](https://github.com/ambicuity/Distributed-System-Control-Plane)
-2. 🎉 Merged PR [#5](https://github.com/ambicuity/ambicuity/pull/5) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
-3. 🎉 Merged PR [#4](https://github.com/ambicuity/ambicuity/pull/4) in [ambicuity/ambicuity](https://github.com/ambicuity/ambicuity)
-4. 🎉 Merged PR [#13](https://github.com/ambicuity/gujarati-python/pull/13) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/3) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+2. 🎉 Merged PR [#2](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/2) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+3. 🎉 Merged PR [#1](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/1) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/Cheminformatics-Data-Management-System/pull/1) in [ambicuity/Cheminformatics-Data-Management-System](https://github.com/ambicuity/Cheminformatics-Data-Management-System)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-29<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-30<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
