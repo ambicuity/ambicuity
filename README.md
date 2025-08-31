@@ -89,8 +89,8 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | No description available | `Python` | 0 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Automated-Revenue-Forecasting-and-Reporting-System**](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Cheminformatics-Data-Management-System**](https://github.com/ambicuity/Cheminformatics-Data-Management-System) | No description available | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/3) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
-2. 🎉 Merged PR [#2](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/2) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
-3. 🎉 Merged PR [#1](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/1) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/Cheminformatics-Data-Management-System/pull/1) in [ambicuity/Cheminformatics-Data-Management-System](https://github.com/ambicuity/Cheminformatics-Data-Management-System)
+1. 🎉 Merged PR [#4](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/4) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+2. 🎉 Merged PR [#3](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/3) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+3. 🎉 Merged PR [#2](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/2) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/1) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-30<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-08-31<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
