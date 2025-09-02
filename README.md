@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Best-practices-for-setting-up-TrueNAS**](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS) | No description | `Shell` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Best-practices-for-setting-up-TrueNAS**](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS) | This repository provides a comprehensive framework for setti... | `Shell` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-LLM-AI-Agent**](https://github.com/ambicuity/Awesome-LLM-AI-Agent) | A curated collection of LLM applications and tutorials cover... | `Python` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/2) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-2. 🎉 Merged PR [#1](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/1) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/1#issuecomment-3243245656) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
+1. 🎉 Merged PR [#4](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/4) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+2. 🗣 Commented on [#4](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/4#issuecomment-3246091979) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+3. 🎉 Merged PR [#3](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/3) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+4. 🎉 Merged PR [#2](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/2) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
