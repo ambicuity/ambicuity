@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
-2. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3243085573) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3242984146) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
-4. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3242983457) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
+1. 🎉 Merged PR [#2](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/2) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+2. 🎉 Merged PR [#1](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/1) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/1#issuecomment-3243245656) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+4. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
