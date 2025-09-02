@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Best-practices-for-setting-up-TrueNAS**](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS) | No description | `Shell` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Best-practices-for-setting-up-TrueNAS**](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS) | No description available | `Shell` | 0 | 0 |
 | [**Awesome-LLM-AI-Agent**](https://github.com/ambicuity/Awesome-LLM-AI-Agent) | A curated collection of LLM applications and tutorials cover... | `Python` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/ambicuity/New-Grad-Jobs/pull/12) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-2. 🎉 Merged PR [#11](https://github.com/ambicuity/New-Grad-Jobs/pull/11) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-3. 🎉 Merged PR [#4](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/4) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
-4. 🎉 Merged PR [#3](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System/pull/3) in [ambicuity/Automated-Revenue-Forecasting-and-Reporting-System](https://github.com/ambicuity/Automated-Revenue-Forecasting-and-Reporting-System)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
+2. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3243085573) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3242984146) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
+4. 🗣 Commented on [#1](https://github.com/ambicuity/Awesome-LLM-AI-Agent/pull/1#issuecomment-3242983457) in [ambicuity/Awesome-LLM-AI-Agent](https://github.com/ambicuity/Awesome-LLM-AI-Agent)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
