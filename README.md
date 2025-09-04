@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/4) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-2. 🗣 Commented on [#4](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/4#issuecomment-3246091979) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-3. 🎉 Merged PR [#3](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/3) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
-4. 🎉 Merged PR [#2](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS/pull/2) in [ambicuity/Best-practices-for-setting-up-TrueNAS](https://github.com/ambicuity/Best-practices-for-setting-up-TrueNAS)
+1. 🗣 Commented on [#2](https://github.com/ambicuity/work/pull/2#issuecomment-3250549272) in [ambicuity/work](https://github.com/ambicuity/work)
+2. 🎉 Merged PR [#2](https://github.com/ambicuity/work/pull/2) in [ambicuity/work](https://github.com/ambicuity/work)
+3. 🎉 Merged PR [#1](https://github.com/ambicuity/work/pull/1) in [ambicuity/work](https://github.com/ambicuity/work)
+4. 🗣 Commented on [#1](https://github.com/ambicuity/work/pull/1#issuecomment-3250477297) in [ambicuity/work](https://github.com/ambicuity/work)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
