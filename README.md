@@ -86,8 +86,8 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
 | [**Leaked-Prompts**](https://github.com/ambicuity/Leaked-Prompts) | A professional collection of reverse-engineered and system p... | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ambicuity/Leaked-Prompts/pull/2#issuecomment-3262810981) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-2. 🎉 Merged PR [#1](https://github.com/ambicuity/Leaked-Prompts/pull/1) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/Leaked-Prompts/pull/1#issuecomment-3262445214) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/college/pull/1) in [ambicuity/college](https://github.com/ambicuity/college)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+2. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263304481) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+3. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263048147) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+4. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263003001) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-06<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-07<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
