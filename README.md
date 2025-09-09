@@ -88,9 +88,9 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics**](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics) | No description available | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics**](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics) | No description available | `Python` | 0 | 0 |
 | [**Leaked-Prompts**](https://github.com/ambicuity/Leaked-Prompts) | A professional collection of reverse-engineered and system p... | `N/A` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-08<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-09<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
