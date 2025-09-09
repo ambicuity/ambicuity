@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-2. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263304481) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-3. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263048147) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-4. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263003001) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+1. 🗣 Commented on [#1](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics/pull/1#issuecomment-3267178144) in [ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics)
+2. 🎉 Merged PR [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+3. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263304481) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+4. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263048147) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
