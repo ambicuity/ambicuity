@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Library-Management**](https://github.com/ambicuity/Library-Management) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Library-Management**](https://github.com/ambicuity/Library-Management) | No description available | `Python` | 0 | 0 |
 | [**Scrap-Book**](https://github.com/ambicuity/Scrap-Book) |  This platform offers seamless image handling, allowing user... | `Shell` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/Library-Management/pull/3) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-2. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271482981) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-3. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271479457) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-4. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271424910) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+1. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271627007) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+2. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271597676) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+3. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271574037) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+4. 🎉 Merged PR [#3](https://github.com/ambicuity/Library-Management/pull/3) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
