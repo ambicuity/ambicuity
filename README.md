@@ -88,10 +88,10 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Library-Management**](https://github.com/ambicuity/Library-Management) | No description available | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**Scrap-Book**](https://github.com/ambicuity/Scrap-Book) |  This platform offers seamless image handling, allowing user... | `Shell` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Library-Management**](https://github.com/ambicuity/Library-Management) | No description available | `Python` | 0 | 0 |
+| [**Scrap-Book**](https://github.com/ambicuity/Scrap-Book) |  This platform offers seamless image handling, allowing user... | `Shell` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics/pull/1#issuecomment-3267178144) in [ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics](https://github.com/ambicuity/Cloud-Native-Streaming-Data-Pipeline-for-Video-Analytics)
-2. 🎉 Merged PR [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-3. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263304481) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
-4. 🗣 Commented on [#3](https://github.com/ambicuity/Leaked-Prompts/pull/3#issuecomment-3263048147) in [ambicuity/Leaked-Prompts](https://github.com/ambicuity/Leaked-Prompts)
+1. 🎉 Merged PR [#3](https://github.com/ambicuity/Library-Management/pull/3) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+2. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271482981) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+3. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271479457) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+4. 🗣 Commented on [#3](https://github.com/ambicuity/Library-Management/pull/3#issuecomment-3271424910) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-09<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-10<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
