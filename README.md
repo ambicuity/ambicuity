@@ -89,8 +89,8 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**AI-Powered-Telehealth-Patient-Intake-System**](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System) | No description available | `TypeScript` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**AI-Powered-Telehealth-Patient-Intake-System**](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System) | No description available | `TypeScript` | 0 | 0 |
 | [**Awesome-LLM-AI-Agent**](https://github.com/ambicuity/Awesome-LLM-AI-Agent) | A curated collection of LLM applications and tutorials cover... | `Python` | 1 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271627007) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-2. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271597676) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-3. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271574037) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-4. 🎉 Merged PR [#3](https://github.com/ambicuity/Library-Management/pull/3) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System/pull/1) in [ambicuity/AI-Powered-Telehealth-Patient-Intake-System](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System)
+2. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271627007) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+3. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271597676) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+4. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271574037) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
