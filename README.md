@@ -86,8 +86,8 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**AI-Powered-Telehealth-Patient-Intake-System**](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System) | No description available | `TypeScript` | 0 | 0 |
