@@ -87,13 +87,13 @@ All my public repositories are showcased below and automatically updated! Each p
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 2 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description | `Python` | 1 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description available | `Python` | 1 | 0 |
 | [**Distributed-LLM-Training-and-Inference-System**](https://github.com/ambicuity/Distributed-LLM-Training-and-Inference-System) | A comprehensive CLI tool (llmctl) that orchestrates data pre... | `Python` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System/pull/1) in [ambicuity/AI-Powered-Telehealth-Patient-Intake-System](https://github.com/ambicuity/AI-Powered-Telehealth-Patient-Intake-System)
-2. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271627007) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-3. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271597676) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
-4. 🗣 Commented on [#4](https://github.com/ambicuity/Library-Management/pull/4#issuecomment-3271574037) in [ambicuity/Library-Management](https://github.com/ambicuity/Library-Management)
+1. 🎉 Merged PR [#2](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/2) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
+2. 🗣 Commented on [#2](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/2#issuecomment-3314289746) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
+3. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/1) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
+4. 🎉 Merged PR [#2](https://github.com/ambicuity/Distributed-LLM-Training-and-Inference-System/pull/2) in [ambicuity/Distributed-LLM-Training-and-Inference-System](https://github.com/ambicuity/Distributed-LLM-Training-and-Inference-System)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
