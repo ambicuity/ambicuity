@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/2) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
-2. 🗣 Commented on [#2](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/2#issuecomment-3314289746) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
-3. 🎉 Merged PR [#1](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/1) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
-4. 🎉 Merged PR [#2](https://github.com/ambicuity/Distributed-LLM-Training-and-Inference-System/pull/2) in [ambicuity/Distributed-LLM-Training-and-Inference-System](https://github.com/ambicuity/Distributed-LLM-Training-and-Inference-System)
+1. 🎉 Merged PR [#12](https://github.com/ambicuity/ginned/pull/12) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+2. 🎉 Merged PR [#11](https://github.com/ambicuity/ginned/pull/11) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+3. 🎉 Merged PR [#10](https://github.com/ambicuity/ginned/pull/10) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+4. 🗣 Commented on [#10](https://github.com/ambicuity/ginned/pull/10#issuecomment-3329853746) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-24<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-25<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
