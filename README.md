@@ -86,10 +86,10 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Predicting-the-Beats-per-Minute-of-Songs**](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Predicting-the-Beats-per-Minute-of-Songs**](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description available | `Python` | 1 | 0 |
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/ambicuity/ginned/pull/24) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
-2. 🎉 Merged PR [#23](https://github.com/ambicuity/ginned/pull/23) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
-3. 🎉 Merged PR [#22](https://github.com/ambicuity/ginned/pull/22) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
-4. 🎉 Merged PR [#21](https://github.com/ambicuity/ginned/pull/21) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+1. 🎉 Merged PR [#6](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/6) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
+2. 🎉 Merged PR [#5](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/5) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
+3. 🎉 Merged PR [#24](https://github.com/ambicuity/ginned/pull/24) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+4. 🎉 Merged PR [#23](https://github.com/ambicuity/ginned/pull/23) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-25<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-09-26<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
