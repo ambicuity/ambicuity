@@ -82,18 +82,9 @@ Passionate developer focused on creating innovative solutions and contributing t
 
 All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.
 
-### Latest Public Repositories
+### Repository Showcase
 
-| Repository | Description | Language | Stars | Forks |
-|---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Predicting-the-Beats-per-Minute-of-Songs**](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description | `Python` | 1 | 0 |
-
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Repository showcase will appear here once public repositories are available*
 
 </div>
 
