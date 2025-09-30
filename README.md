@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Real-Time-Decentralized-Exchange-DEX-Monitoring-System**](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description | `Python` | 1 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Real-Time-Decentralized-Exchange-DEX-Monitoring-System**](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System) | No description available | `Python` | 0 | 0 |
+| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description available | `Python` | 1 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/3) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
-2. 🎉 Merged PR [#6](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/6) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
-3. 🎉 Merged PR [#5](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/5) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
-4. 🎉 Merged PR [#24](https://github.com/ambicuity/ginned/pull/24) in [ambicuity/ginned](https://github.com/ambicuity/ginned)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System/pull/1) in [ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System)
+2. 🎉 Merged PR [#3](https://github.com/ambicuity/Awesome-MICCAI-2025/pull/3) in [ambicuity/Awesome-MICCAI-2025](https://github.com/ambicuity/Awesome-MICCAI-2025)
+3. 🎉 Merged PR [#6](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/6) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
+4. 🎉 Merged PR [#5](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs/pull/5) in [ambicuity/Predicting-the-Beats-per-Minute-of-Songs](https://github.com/ambicuity/Predicting-the-Beats-per-Minute-of-Songs)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
