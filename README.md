@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**n8n-AI-Multiple-Agent-Team**](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team) | This guide contains all the commands, prompts, and configura... | `Shell` | 1 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description available | `Python` | 1 | 0 |
-| [**n8n-AI-Multiple-Agent-Team**](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team) | This guide contains all the commands, prompts, and configura... | `N/A` | 1 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/3) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-2. 🎉 Merged PR [#2](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/2) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-3. 🎉 Merged PR [#1](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/1) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System/pull/1) in [ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System](https://github.com/ambicuity/Real-Time-Decentralized-Exchange-DEX-Monitoring-System)
+1. 🎉 Merged PR [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
+2. 🗣 Commented on [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5#issuecomment-3369253437) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
+3. 🎉 Merged PR [#4](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/4) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
+4. 🎉 Merged PR [#3](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/3) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-05<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-06<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
