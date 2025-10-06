@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**Enterprise-Rag**](https://github.com/ambicuity/Enterprise-Rag) | No description available | `N/A` | 0 | 0 |
+| [**awesome-enterprise-rag**](https://github.com/ambicuity/awesome-enterprise-rag) | A comprehensive guide to building production-ready Retrieval... | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**n8n-AI-Multiple-Agent-Team**](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team) | This guide contains all the commands, prompts, and configura... | `Shell` | 1 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | No description | `Python` | 1 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-2. 🗣 Commented on [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5#issuecomment-3369253437) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-3. 🎉 Merged PR [#4](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/4) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
-4. 🎉 Merged PR [#3](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/3) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
+1. 🎉 Merged PR [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+2. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3370008566) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3369995230) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+4. 🎉 Merged PR [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
