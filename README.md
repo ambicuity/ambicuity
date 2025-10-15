@@ -86,8 +86,8 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 2 | 0 |
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ambicuity/Game-in-PDF/pull/4) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
-2. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
-3. 🎉 Merged PR [#1](https://github.com/ambicuity/Enterprise-Rag/pull/1) in [ambicuity/Enterprise-Rag](https://github.com/ambicuity/Enterprise-Rag)
-4. 🎉 Merged PR [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+1. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
+2. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3370008566) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3369995230) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+4. 🗣 Commented on [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5#issuecomment-3369253437) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-14<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-15<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
