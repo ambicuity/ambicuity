@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**hiero-sdk-python**](https://github.com/ambicuity/hiero-sdk-python) | A python SDK for Hiero | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**eve_esi**](https://github.com/ambicuity/eve_esi) | Thread-safe, asynchronous Rust client for EVE Online's ESI &... | `N/A` | 0 | 0 |
-| [**dashboard-Hacktoberfest**](https://github.com/ambicuity/dashboard-Hacktoberfest) | A simple web-based student registration form for engineering... | `N/A` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](undefined) in [autumn-order/eve_esi](https://github.com/autumn-order/eve_esi)
-2. 💪 Opened PR [#23845](undefined) in [scipy/scipy](https://github.com/scipy/scipy)
-3. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
-4. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3370008566) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
+1. 💪 Opened PR [#512](undefined) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+2. 💪 Opened PR [#57](undefined) in [autumn-order/eve_esi](https://github.com/autumn-order/eve_esi)
+3. 💪 Opened PR [#23845](undefined) in [scipy/scipy](https://github.com/scipy/scipy)
+4. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
