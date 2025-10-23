@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 2 | 0 |
-| [**Collaborate-Stream**](https://github.com/ambicuity/Collaborate-Stream) | Build a real-time distributed analytics system for collabora... | `Python` | 0 | 0 |
+| [**eve_esi**](https://github.com/ambicuity/eve_esi) | Thread-safe, asynchronous Rust client for EVE Online's ESI &... | `N/A` | 0 | 0 |
+| [**dashboard-Hacktoberfest**](https://github.com/ambicuity/dashboard-Hacktoberfest) | A simple web-based student registration form for engineering... | `N/A` | 0 | 0 |
+| [**prompt-eng-interactive-tutorial**](https://github.com/ambicuity/prompt-eng-interactive-tutorial) | Anthropic's Interactive Prompt Engineering Tutorial | `Jupyter Notebook` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
-2. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3370008566) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3369995230) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
-4. 🗣 Commented on [#5](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team/pull/5#issuecomment-3369253437) in [ambicuity/n8n-AI-Multiple-Agent-Team](https://github.com/ambicuity/n8n-AI-Multiple-Agent-Team)
+1. 💪 Opened PR [#57](undefined) in [autumn-order/eve_esi](https://github.com/autumn-order/eve_esi)
+2. 💪 Opened PR [#23845](undefined) in [scipy/scipy](https://github.com/scipy/scipy)
+3. 🗣 Commented on [#4](https://github.com/ambicuity/Game-in-PDF/pull/4#issuecomment-3387273290) in [ambicuity/Game-in-PDF](https://github.com/ambicuity/Game-in-PDF)
+4. 🗣 Commented on [#1](https://github.com/ambicuity/awesome-enterprise-rag/pull/1#issuecomment-3370008566) in [ambicuity/awesome-enterprise-rag](https://github.com/ambicuity/awesome-enterprise-rag)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-22<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-23<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
