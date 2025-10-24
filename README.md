@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 2 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**pandas**](https://github.com/ambicuity/pandas) | Flexible and powerful data analysis / manipulation library f... | `N/A` | 0 | 0 |
-| [**stdlib**](https://github.com/ambicuity/stdlib) | ✨ The fundamental numerical library for JavaScript and TypeS... | `N/A` | 0 | 0 |
-| [**go-sdk-contrib**](https://github.com/ambicuity/go-sdk-contrib) | Community maintained OpenFeature Providers and Hooks for Go | `N/A` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
