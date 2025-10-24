@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**freeCodeCamp**](https://github.com/ambicuity/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Lear... | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**freeCodeCamp**](https://github.com/ambicuity/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Lear... | `N/A` | 0 | 0 |
 | [**django-keel**](https://github.com/ambicuity/django-keel) | A versatile, production-ready Django project template for an... | `Jinja` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**actual**](https://github.com/ambicuity/actual) | A local-first personal finance app | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
 
-*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
