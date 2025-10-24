@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**freeCodeCamp**](https://github.com/ambicuity/freeCodeCamp) | freeCodeCamp.org's open-source codebase and curriculum. Lear... | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
+| [**django-keel**](https://github.com/ambicuity/django-keel) | A versatile, production-ready Django project template for an... | `Jinja` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 2 | 0 |
-| [**passifypdf**](https://github.com/ambicuity/passifypdf) | Use passifypdf to protect your PDF files with a password of ... | `N/A` | 0 | 0 |
+| [**actual**](https://github.com/ambicuity/actual) | A local-first personal finance app | `N/A` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1214](https://github.com/cocoindex-io/cocoindex/issues/1214#issuecomment-3435508359) in [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
-2. 💪 Opened PR [#6](undefined) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-3. 💪 Opened PR [#512](undefined) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 💪 Opened PR [#57](undefined) in [autumn-order/eve_esi](https://github.com/autumn-order/eve_esi)
+1. 💪 Opened PR [#20](undefined) in [CuriousLearner/django-keel](https://github.com/CuriousLearner/django-keel)
+2. 🗣 Commented on [#533](https://github.com/hiero-ledger/hiero-sdk-python/pull/533#issuecomment-3439688042) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 💪 Opened PR [#533](undefined) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. 💪 Opened PR [#5996](undefined) in [actualbudget/actual](https://github.com/actualbudget/actual)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-23<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-24<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
