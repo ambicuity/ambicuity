@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**cocoindex**](https://github.com/ambicuity/cocoindex) | Data transformation framework for AI. Ultra performant, with... | `N/A` | 0 | 0 |
+| [**ginned**](https://github.com/ambicuity/ginned) | No description available | `Go` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 2 | 0 |
-| [**pandas**](https://github.com/ambicuity/pandas) | Flexible and powerful data analysis / manipulation library f... | `N/A` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63023](undefined) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-2. 💪 Opened PR [#8274](undefined) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
-3. 💪 Opened PR [#782](undefined) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
-4. 🗣 Commented on [#751](https://github.com/open-feature/go-sdk-contrib/issues/751#issuecomment-3440360919) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
+1. 💪 Opened PR [#1219](undefined) in [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+2. 💪 Opened PR [#63023](undefined) in [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. 💪 Opened PR [#8274](undefined) in [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib)
+4. 💪 Opened PR [#782](undefined) in [open-feature/go-sdk-contrib](https://github.com/open-feature/go-sdk-contrib)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-24<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-10-25<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
