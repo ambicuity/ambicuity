@@ -86,8 +86,8 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 4 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 3 | 0 |
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-11-29<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2025-11-30<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
