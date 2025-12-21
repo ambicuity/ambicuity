@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 4 | 0 |
-| [**ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-**](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-) | This repository contains a complete full-fledged infrastruct... | `Shell` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-/pull/1#issuecomment-3667065621) in [ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-)
-2. 🗣 Commented on [#1](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-/pull/1#issuecomment-3667019810) in [ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/Cloud-Native-SaaS-Starter-Kit/pull/1#issuecomment-3651786692) in [ambicuity/Cloud-Native-SaaS-Starter-Kit](https://github.com/ambicuity/Cloud-Native-SaaS-Starter-Kit)
-4. 💪 Opened PR [#1219](undefined) in [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)
+1. 🗣 Commented on [#4](https://github.com/ambicuity/Tech-Blog/pull/4#issuecomment-3678875234) in [ambicuity/Tech-Blog](https://github.com/ambicuity/Tech-Blog)
+2. 🗣 Commented on [#1](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-/pull/1#issuecomment-3667065621) in [ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-/pull/1#issuecomment-3667019810) in [ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-](https://github.com/ambicuity/ISP-Scale-BGP-Peering-Simulation-GNS3-EVE-NG-)
+4. 🗣 Commented on [#1](https://github.com/ambicuity/Cloud-Native-SaaS-Starter-Kit/pull/1#issuecomment-3651786692) in [ambicuity/Cloud-Native-SaaS-Starter-Kit](https://github.com/ambicuity/Cloud-Native-SaaS-Starter-Kit)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
