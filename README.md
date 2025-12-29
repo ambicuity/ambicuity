@@ -90,8 +90,8 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 5 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Distributed-Deep-Learning-Benchmark-Suite**](https://github.com/ambicuity/Distributed-Deep-Learning-Benchmark-Suite) | A comprehensive benchmarking CLI for PyTorch Distributed Dat... | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
