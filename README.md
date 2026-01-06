@@ -90,8 +90,8 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
