@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2025**](https://github.com/ambicuity/Awesome-MICCAI-2025) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Terraform-Driven-Ray-on-Kubernetes-Platform**](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform) | No description available | `N/A` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706448703) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
-2. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706429361) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706395141) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
-4. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706354777) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
+1. 🗣 Commented on [#1](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform/pull/1#issuecomment-3720123354) in [ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform)
+2. 🗣 Commented on [#1](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform/pull/1#issuecomment-3720096175) in [ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform)
+3. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706448703) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
+4. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706429361) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
