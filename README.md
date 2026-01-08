@@ -88,10 +88,10 @@ All my public repositories are showcased below and automatically updated! Each p
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Real-Time-Vehicle-Telemetry-System-IoT-**](https://github.com/ambicuity/Real-Time-Vehicle-Telemetry-System-IoT-) | No description available | `Python` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
+| [**Distributed-Deep-Learning-Benchmark-Suite**](https://github.com/ambicuity/Distributed-Deep-Learning-Benchmark-Suite) | A comprehensive benchmarking CLI for PyTorch Distributed Dat... | `Python` | 1 | 0 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
