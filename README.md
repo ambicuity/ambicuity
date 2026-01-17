@@ -90,8 +90,8 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform/pull/1#issuecomment-3720123354) in [ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform)
-2. 🗣 Commented on [#1](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform/pull/1#issuecomment-3720096175) in [ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform)
-3. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706448703) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
-4. 🗣 Commented on [#1](https://github.com/ambicuity/dataset-health-monitor/pull/1#issuecomment-3706429361) in [ambicuity/dataset-health-monitor](https://github.com/ambicuity/dataset-health-monitor)
+1. ❌ Closed PR [#4](https://github.com/ambicuity/New-Grad-Jobs/pull/4) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+2. ❌ Closed PR [#6](https://github.com/ambicuity/New-Grad-Jobs/pull/6) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+3. ❌ Closed PR [#10](https://github.com/ambicuity/New-Grad-Jobs/pull/10) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+4. ❌ Closed PR [#13](https://github.com/ambicuity/New-Grad-Jobs/pull/13) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
