@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/ambicuity/New-Grad-Jobs/pull/4) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-2. ❌ Closed PR [#6](https://github.com/ambicuity/New-Grad-Jobs/pull/6) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-3. ❌ Closed PR [#10](https://github.com/ambicuity/New-Grad-Jobs/pull/10) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-4. ❌ Closed PR [#13](https://github.com/ambicuity/New-Grad-Jobs/pull/13) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+1. 🚀 Published release [🎉 v1.0.0 - Initial Release](https://github.com/ambicuity/New-Grad-Jobs/releases/tag/v1.0.0) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+2. ❌ Closed PR [#4](https://github.com/ambicuity/New-Grad-Jobs/pull/4) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+3. ❌ Closed PR [#6](https://github.com/ambicuity/New-Grad-Jobs/pull/6) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+4. ❌ Closed PR [#10](https://github.com/ambicuity/New-Grad-Jobs/pull/10) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-17<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-18<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
