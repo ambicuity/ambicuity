@@ -86,10 +86,10 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Automated technical blog post generator using Google Gemini ... | `Python` | 0 | 1 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `PHP` | 0 | 1 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
 
@@ -155,9 +155,9 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/ambicuity/Tech-Blog/pull/1) in [ambicuity/Tech-Blog](https://github.com/ambicuity/Tech-Blog)
-2. 🚀 Published release [🎉 v1.0.0 - Initial Release](https://github.com/ambicuity/New-Grad-Jobs/releases/tag/v1.0.0) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
-3. ❌ Closed PR [#4](https://github.com/ambicuity/New-Grad-Jobs/pull/4) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
+1. 🚀 Published release [v1.0.0 - Official Launch: Newsletter & Security Upgrade](https://github.com/ambicuity/Tech-Blog/releases/tag/v1.0.0) in [ambicuity/Tech-Blog](https://github.com/ambicuity/Tech-Blog)
+2. ❌ Closed PR [#1](https://github.com/ambicuity/Tech-Blog/pull/1) in [ambicuity/Tech-Blog](https://github.com/ambicuity/Tech-Blog)
+3. 🚀 Published release [🎉 v1.0.0 - Initial Release](https://github.com/ambicuity/New-Grad-Jobs/releases/tag/v1.0.0) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 4. ❌ Closed PR [#6](https://github.com/ambicuity/New-Grad-Jobs/pull/6) in [ambicuity/New-Grad-Jobs](https://github.com/ambicuity/New-Grad-Jobs)
 <!--END_SECTION:activity-->
 
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-19<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-20<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
