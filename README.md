@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**passifypdf**](https://github.com/ambicuity/passifypdf) | Use passifypdf to protect your PDF files with a password of ... | `Python` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `PHP` | 0 | 1 |
+| [**x**](https://github.com/ambicuity/x) | Run shell commands in natural language. | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 6 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `PHP` | 0 | 1 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0: Standard Library Localization](https://github.com/ambicuity/gujarati-python/releases/tag/v1.2.0) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-2. 🚀 Published release [v1.1.0: Gujarati Error Messages](https://github.com/ambicuity/gujarati-python/releases/tag/v1.1.0) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-3. 🚀 Published release [v1.0.1: Fix Installation](https://github.com/ambicuity/gujarati-python/releases/tag/v1.0.1) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
-4. 🚀 Published release [v1.0.0: Initial Release](https://github.com/ambicuity/gujarati-python/releases/tag/v1.0.0) in [ambicuity/gujarati-python](https://github.com/ambicuity/gujarati-python)
+1. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793220935) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+2. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793186338) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+3. 💪 Opened PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+4. 🗣 Commented on [#10](https://github.com/SUPAIDEAS/passifypdf/issues/10#issuecomment-3793132578) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-23<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-24<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
