@@ -86,8 +86,8 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `PHP` | 0 | 1 |
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793220935) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-2. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793186338) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-3. 💪 Opened PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-4. 🗣 Commented on [#10](https://github.com/SUPAIDEAS/passifypdf/issues/10#issuecomment-3793132578) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+1. 💪 Opened PR [#6](https://github.com/ambicuity/cross-platform-automation-tools/pull/6) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+2. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793220935) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+3. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793186338) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+4. 💪 Opened PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-26<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-01-27<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
