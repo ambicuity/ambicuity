@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**stremio-core**](https://github.com/ambicuity/stremio-core) | ⚛️ The Stremio Core: types, addon system, UI models, core lo... | `Rust` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/ambicuity/cross-platform-automation-tools/pull/6) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
-2. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793220935) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-3. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793186338) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-4. 💪 Opened PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+1. 💪 Opened PR [#927](https://github.com/Stremio/stremio-core/pull/927) in [Stremio/stremio-core](https://github.com/Stremio/stremio-core)
+2. 💪 Opened PR [#6](https://github.com/ambicuity/cross-platform-automation-tools/pull/6) in [ambicuity/cross-platform-automation-tools](https://github.com/ambicuity/cross-platform-automation-tools)
+3. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793220935) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+4. 🗣 Commented on [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11#issuecomment-3793186338) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-07<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-08<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
