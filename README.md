@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**marker**](https://github.com/ambicuity/marker) | Convert PDF to markdown + JSON quickly with high accuracy | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-2. ❌ Closed PR [#1754](https://github.com/hiero-ledger/hiero-sdk-python/pull/1754) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-3. 🗣 Commented on [#1754](https://github.com/hiero-ledger/hiero-sdk-python/pull/1754#issuecomment-3868429107) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 💪 Opened PR [#1754](https://github.com/hiero-ledger/hiero-sdk-python/pull/1754) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 🗣 Commented on [#989](https://github.com/datalab-to/marker/pull/989#issuecomment-3873275621) in [datalab-to/marker](https://github.com/datalab-to/marker)
+2. 💪 Opened PR [#989](https://github.com/datalab-to/marker/pull/989) in [datalab-to/marker](https://github.com/datalab-to/marker)
+3. 🗣 Commented on [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755#issuecomment-3872835369) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. ❗ Opened issue [#1768](https://github.com/hiero-ledger/hiero-sdk-python/issues/1768) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
