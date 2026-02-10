@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**langextract**](https://github.com/ambicuity/langextract) | A Python library for extracting structured information from ... | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12871](https://github.com/openclaw/openclaw/pull/12871) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-2. 💪 Opened PR [#12870](https://github.com/openclaw/openclaw/pull/12870) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-3. 🗣 Commented on [#1768](https://github.com/hiero-ledger/hiero-sdk-python/issues/1768#issuecomment-3873494884) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 🗣 Commented on [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755#issuecomment-3873439217) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 💪 Opened PR [#351](https://github.com/google/langextract/pull/351) in [google/langextract](https://github.com/google/langextract)
+2. 🗣 Commented on [#334](https://github.com/google/langextract/issues/334#issuecomment-3879770921) in [google/langextract](https://github.com/google/langextract)
+3. 💪 Opened PR [#350](https://github.com/google/langextract/pull/350) in [google/langextract](https://github.com/google/langextract)
+4. 🗣 Commented on [#985](https://github.com/datalab-to/marker/issues/985#issuecomment-3878972362) in [datalab-to/marker](https://github.com/datalab-to/marker)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
