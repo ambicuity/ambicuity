@@ -87,11 +87,11 @@ All my public repositories are showcased below and automatically updated! Each p
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**marker**](https://github.com/ambicuity/marker) | Convert PDF to markdown + JSON quickly with high accuracy | `N/A` | 0 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**openclaw**](https://github.com/ambicuity/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lo... | `N/A` | 0 | 0 |
+| [**hiero-sdk-python**](https://github.com/ambicuity/hiero-sdk-python) | A python SDK for Hiero | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#989](https://github.com/datalab-to/marker/pull/989#issuecomment-3873275621) in [datalab-to/marker](https://github.com/datalab-to/marker)
-2. 💪 Opened PR [#989](https://github.com/datalab-to/marker/pull/989) in [datalab-to/marker](https://github.com/datalab-to/marker)
-3. 🗣 Commented on [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755#issuecomment-3872835369) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. ❗ Opened issue [#1768](https://github.com/hiero-ledger/hiero-sdk-python/issues/1768) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 💪 Opened PR [#12871](https://github.com/openclaw/openclaw/pull/12871) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+2. 💪 Opened PR [#12870](https://github.com/openclaw/openclaw/pull/12870) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+3. 🗣 Commented on [#1768](https://github.com/hiero-ledger/hiero-sdk-python/issues/1768#issuecomment-3873494884) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. 🗣 Commented on [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755#issuecomment-3873439217) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-09<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-10<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
