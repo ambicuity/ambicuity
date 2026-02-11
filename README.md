@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 6 | 0 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 5 | 0 |
-| [**langextract**](https://github.com/ambicuity/langextract) | A Python library for extracting structured information from ... | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**hiero-sdk-python**](https://github.com/ambicuity/hiero-sdk-python) | A python SDK for Hiero | `Python` | 0 | 0 |
+| [**FinanceTrackerService**](https://github.com/ambicuity/FinanceTrackerService) | A finance Tracker service using FASTAPI and making use of a ... | `N/A` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#351](https://github.com/google/langextract/pull/351) in [google/langextract](https://github.com/google/langextract)
-2. 🗣 Commented on [#334](https://github.com/google/langextract/issues/334#issuecomment-3879770921) in [google/langextract](https://github.com/google/langextract)
-3. 💪 Opened PR [#350](https://github.com/google/langextract/pull/350) in [google/langextract](https://github.com/google/langextract)
-4. 🗣 Commented on [#985](https://github.com/datalab-to/marker/issues/985#issuecomment-3878972362) in [datalab-to/marker](https://github.com/datalab-to/marker)
+1. 💪 Opened PR [#1777](https://github.com/hiero-ledger/hiero-sdk-python/pull/1777) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+2. 🗣 Commented on [#1755](https://github.com/hiero-ledger/hiero-sdk-python/pull/1755#issuecomment-3881096935) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 💪 Opened PR [#2](https://github.com/KevinEstebanQ/FinanceTrackerService/pull/2) in [KevinEstebanQ/FinanceTrackerService](https://github.com/KevinEstebanQ/FinanceTrackerService)
+4. 💪 Opened PR [#351](https://github.com/google/langextract/pull/351) in [google/langextract](https://github.com/google/langextract)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-10<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-11<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
