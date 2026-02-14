@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**SponsorStream-MCP**](https://github.com/ambicuity/SponsorStream-MCP) | No description | `N/A` | 0 | 0 |
+| [**SponsorStream-MCP**](https://github.com/ambicuity/SponsorStream-MCP) | SponsorStream is a semantic sponsorship engine for LLM agent... | `Python` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 6 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**torch-ing**](https://github.com/ambicuity/torch-ing) | Master PyTorch through 95+ carefully crafted problems spanni... | `Jupyter Notebook` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
