@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 6 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
 | [**voca**](https://github.com/ambicuity/voca) | Voca is a fast, reliable command-line utility for non-intera... | `Makefile` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
 | [**trackpad-weight**](https://github.com/ambicuity/trackpad-weight) | Turn your MacBook trackpad into a digital weighing scale usi... | `Swift` | 2 | 1 |
 
-*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
