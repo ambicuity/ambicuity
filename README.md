@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**voca**](https://github.com/ambicuity/voca) | Voca is a fast, reliable command-line utility for non-intera... | `C` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
-| [**voca-releases**](https://github.com/ambicuity/voca-releases) | No description available | `HTML` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 6 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**voca-releases**](https://github.com/ambicuity/voca-releases) | Voca is built for speed, resilience, and simplicity. It repl... | `TypeScript` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1812](https://github.com/hiero-ledger/hiero-sdk-python/pull/1812) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-2. 🗣 Commented on [#1810](https://github.com/hiero-ledger/hiero-sdk-python/pull/1810#issuecomment-3904707772) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-3. 🗣 Commented on [#1809](https://github.com/hiero-ledger/hiero-sdk-python/pull/1809#issuecomment-3904683008) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 🗣 Commented on [#1317](https://github.com/hiero-ledger/hiero-sdk-python/issues/1317#issuecomment-3902552189) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 🚀 Published release [v1.0.0](https://github.com/ambicuity/voca-releases/releases/tag/v1.0.0) in [ambicuity/voca-releases](https://github.com/ambicuity/voca-releases)
+2. 💪 Opened PR [#1812](https://github.com/hiero-ledger/hiero-sdk-python/pull/1812) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 🗣 Commented on [#1810](https://github.com/hiero-ledger/hiero-sdk-python/pull/1810#issuecomment-3904707772) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. 🗣 Commented on [#1809](https://github.com/hiero-ledger/hiero-sdk-python/pull/1809#issuecomment-3904683008) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-18<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-19<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
