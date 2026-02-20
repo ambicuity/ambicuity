@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**passifypdf**](https://github.com/ambicuity/passifypdf) | Use passifypdf to protect your PDF files with a password of ... | `Python` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**kubernetes**](https://github.com/ambicuity/kubernetes) | Production-Grade Container Scheduling and Management | `N/A` | 0 | 0 |
+| [**llama.cpp**](https://github.com/ambicuity/llama.cpp) | LLM inference in C/C++ | `N/A` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-2. 🗣 Commented on [#1822](https://github.com/hiero-ledger/hiero-sdk-python/pull/1822#issuecomment-3929596524) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-3. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928995732) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928906622) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 🔒 Closed issue [#22](https://github.com/SUPAIDEAS/passifypdf/issues/22) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+2. 🔒 Closed issue [#21](https://github.com/SUPAIDEAS/passifypdf/issues/21) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+3. 🔒 Closed issue [#20](https://github.com/SUPAIDEAS/passifypdf/issues/20) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+4. 🔒 Closed issue [#19](https://github.com/SUPAIDEAS/passifypdf/issues/19) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
