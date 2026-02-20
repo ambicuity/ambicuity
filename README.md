@@ -86,11 +86,11 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 6 | 1 |
-| [**passifypdf**](https://github.com/ambicuity/passifypdf) | Use passifypdf to protect your PDF files with a password of ... | `Python` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
+| [**passifypdf**](https://github.com/ambicuity/passifypdf) | Use passifypdf to protect your PDF files with a password of ... | `Python` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928995732) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-2. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928906622) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-3. 💪 Opened PR [#1822](https://github.com/hiero-ledger/hiero-sdk-python/pull/1822) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
-4. 🗣 Commented on [#1809](https://github.com/hiero-ledger/hiero-sdk-python/pull/1809#issuecomment-3924348228) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 🎉 Merged PR [#11](https://github.com/SUPAIDEAS/passifypdf/pull/11) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
+2. 🗣 Commented on [#1822](https://github.com/hiero-ledger/hiero-sdk-python/pull/1822#issuecomment-3929596524) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928995732) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. 🗣 Commented on [#1480](https://github.com/hiero-ledger/hiero-sdk-python/issues/1480#issuecomment-3928906622) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
@@ -181,7 +181,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-19<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-20<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
