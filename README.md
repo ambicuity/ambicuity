@@ -86,14 +86,14 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**qmd**](https://github.com/ambicuity/qmd) | mini cli search engine for your docs, knowledge bases, meeti... | `N/A` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/SUPAIDEAS/passifypdf/pull/51) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-2. 💪 Opened PR [#50](https://github.com/SUPAIDEAS/passifypdf/pull/50) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-3. 💪 Opened PR [#49](https://github.com/SUPAIDEAS/passifypdf/pull/49) in [SUPAIDEAS/passifypdf](https://github.com/SUPAIDEAS/passifypdf)
-4. 🗣 Commented on [#1743](https://github.com/hiero-ledger/hiero-sdk-python/issues/1743#issuecomment-3937731412) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+1. 💪 Opened PR [#22807](https://github.com/openclaw/openclaw/pull/22807) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+2. 💪 Opened PR [#22804](https://github.com/openclaw/openclaw/pull/22804) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+3. 💪 Opened PR [#22789](https://github.com/openclaw/openclaw/pull/22789) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+4. 💪 Opened PR [#22785](https://github.com/openclaw/openclaw/pull/22785) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
