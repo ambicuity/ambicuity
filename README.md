@@ -2,60 +2,69 @@
 
 # Hello, I'm Ritesh Rana
 
-### Full-Stack Developer | Open Source Enthusiast | Problem Solver
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ambicuity&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/ambicuity)
-[![GitHub followers](https://img.shields.io/github/followers/ambicuity?label=Followers&style=social)](https://github.com/ambicuity?tab=followers)
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://riteshrana.engineer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshengineer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshrana36@gmail.com)
 
-*"Turning complex ideas into elegant solutions"*
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ambicuity&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/ambicuity)
+[![GitHub followers](https://img.shields.io/github/followers/ambicuity?label=FOLLOWERS&style=for-the-badge&color=7AA2F7)](https://github.com/ambicuity?tab=followers)
 
 </div>
 
 ## About Me
 
-Passionate developer focused on creating innovative solutions and contributing to the open-source community. I love exploring new technologies and building projects that make a difference.
+I am a software engineer focused on building resilient, scalable systems and contributing to the open-source community. My passion lies in solving complex architectural challenges and delivering high-quality, production-grade applications.
 
-- **Currently working on:** Next-generation web applications and developer tools
-- **Learning:** Advanced system design, cloud architecture, and emerging technologies
-- **Looking to collaborate on:** Open source projects, innovative startups, and community initiatives
-- **Ask me about:** Web development, system design, DevOps, and software architecture
-- **How to reach me:** [Contact details below](#connect-with-me)
-- **Fun fact:** I believe every complex problem has an elegant simple solution waiting to be discovered!
+- **Currently working on:** Distributed systems and advanced backend architectures
+- **Learning:** Cloud-native patterns, performance optimization, and container orchestration
+- **Looking to collaborate on:** Open source infrastructure, developer tooling, and innovative startups
+- **Ask me about:** System design, microservices, DevOps, and full-stack engineering
+- **Fun fact:** I believe every complex problem can be distilled into an elegant architectural solution.
 
 ## Technologies & Tools
 
 <div align="center">
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Cloud
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+## GitHub Achievements
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambicuity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ambicuity" /></a>
 </div>
 
 ## GitHub Analytics
@@ -161,18 +170,6 @@ All my public repositories are showcased below and automatically updated! Each p
 4. 💪 Opened PR [#22807](https://github.com/openclaw/openclaw/pull/22807) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://riteshrana.engineer)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riteshengineer)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshrana36@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### Profile Summary
@@ -184,8 +181,8 @@ All my public repositories are showcased below and automatically updated! Each p
 *This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-22<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
-- Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=flat-square)
-- Total Followers: ![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=followers&query=followers&url=https://api.github.com/users/ambicuity&style=flat-square)
-- Total Stars Earned: ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/ambicuity&style=flat-square)
+- Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=for-the-badge)
+- Total Followers: ![Followers](https://img.shields.io/badge/dynamic/json?color=green&label=followers&query=followers&url=https://api.github.com/users/ambicuity&style=for-the-badge)
+- Total Stars Earned: ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/ambicuity&style=for-the-badge)
 
 </div>
