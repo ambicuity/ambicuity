@@ -87,13 +87,13 @@ All my public repositories are showcased below and automatically updated! Each p
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
+| [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
+| [**awesome-failed-ml-experiments**](https://github.com/ambicuity/awesome-failed-ml-experiments) | Learning from failures is one of the most valuable skills in... | `Python` | 0 | 0 |
+| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
 | [**qmd**](https://github.com/ambicuity/qmd) | mini cli search engine for your docs, knowledge bases, meeti... | `N/A` | 0 | 0 |
-| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
 
-*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
+*Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
@@ -155,10 +155,10 @@ All my public repositories are showcased below and automatically updated! Each p
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22807](https://github.com/openclaw/openclaw/pull/22807) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-2. 💪 Opened PR [#22804](https://github.com/openclaw/openclaw/pull/22804) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-3. 💪 Opened PR [#22789](https://github.com/openclaw/openclaw/pull/22789) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-4. 💪 Opened PR [#22785](https://github.com/openclaw/openclaw/pull/22785) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
+1. ℹ️ Reopened PR [#1836](https://github.com/hiero-ledger/hiero-sdk-python/pull/1836) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+2. ❌ Closed PR [#1836](https://github.com/hiero-ledger/hiero-sdk-python/pull/1836) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+3. 💪 Opened PR [#1836](https://github.com/hiero-ledger/hiero-sdk-python/pull/1836) in [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python)
+4. 💪 Opened PR [#22807](https://github.com/openclaw/openclaw/pull/22807) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 ## Connect With Me
