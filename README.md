@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description available | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description available | `Python` | 0 | 0 |
-| [**awesome-failed-ml-experiments**](https://github.com/ambicuity/awesome-failed-ml-experiments) | Learning from failures is one of the most valuable skills in... | `Python` | 0 | 0 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description available | `N/A` | 0 | 0 |
-| [**qmd**](https://github.com/ambicuity/qmd) | mini cli search engine for your docs, knowledge bases, meeti... | `N/A` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
 
 *Showing 6 of 6 public repositories - automatically updated via GitHub Actions*
 
