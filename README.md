@@ -64,15 +64,15 @@ I am a software engineer focused on building resilient, scalable systems and con
 ## GitHub Achievements
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambicuity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="ambicuity" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambicuity&theme=tokyonight" alt="Profile Summary"/>
 </div>
 
 ## GitHub Analytics
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambicuity&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambicuity&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ambicuity&theme=tokyonight"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ambicuity&theme=tokyonight&utcOffset=8"/>
 
 </div>
 
@@ -171,10 +171,6 @@ All my public repositories are showcased below and automatically updated! Each p
 <!--END_SECTION:activity-->
 
 <div align="center">
-
-### Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ambicuity&theme=tokyonight" alt="Profile Summary"/>
 
 ---
 
