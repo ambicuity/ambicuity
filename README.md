@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 7 | 1 |
-| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**hiero-sdk-python**](https://github.com/ambicuity/hiero-sdk-python) | A python SDK for Hiero | `Python` | 0 | 0 |
+| [**Terraform-Driven-Ray-on-Kubernetes-Platform**](https://github.com/ambicuity/Terraform-Driven-Ray-on-Kubernetes-Platform) | Production-grade, highly scalable Terraform module for deplo... | `Python` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
+| [**hiero-sdk-python**](https://github.com/ambicuity/hiero-sdk-python) | A python SDK for Hiero | `Python` | 0 | 0 |
 | [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
 
 *Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
@@ -165,7 +165,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-22<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-02-23<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=for-the-badge)
