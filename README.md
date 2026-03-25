@@ -86,11 +86,11 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**pomodo-feedback**](https://github.com/ambicuity/pomodo-feedback) | Pomodo is a privacy-first focus timer and productivity compa... | `Shell` | 0 | 0 |
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 16 | 25 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 16 | 25 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**terraform-aws-eks-ray**](https://github.com/ambicuity/terraform-aws-eks-ray) | Production-grade, highly scalable Terraform module for deplo... | `Python` | 1 | 5 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 9 | 0 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
 
 *Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
