@@ -89,9 +89,9 @@ All my public repositories are showcased below and automatically updated! Each p
 | [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
 | [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 31 | 24 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 16 | 1 |
-| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
+| [**system-design-primer**](https://github.com/ambicuity/system-design-primer) | Learn how to design large-scale systems. Prep for the system... | `N/A` | 0 | 0 |
 | [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 16 | 1 |
 
 *Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
@@ -165,7 +165,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-05-15<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-05-16<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=for-the-badge)
