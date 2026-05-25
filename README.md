@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 32 | 25 |
+| [**torch-ing**](https://github.com/ambicuity/torch-ing) | Master PyTorch through 95+ carefully crafted problems spanni... | `Jupyter Notebook` | 0 | 0 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 18 | 1 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 33 | 25 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 17 | 1 |
-| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 0 | 0 |
-| [**awesome-failed-ml-experiments**](https://github.com/ambicuity/awesome-failed-ml-experiments) | Learning from failures is one of the most valuable skills in... | `Python` | 0 | 0 |
+| [**storely**](https://github.com/ambicuity/storely) | No description | `TypeScript` | 0 | 0 |
 
 *Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
@@ -165,7 +165,7 @@ All my public repositories are showcased below and automatically updated! Each p
 
 ---
 
-*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-05-24<!-- LAST_UPDATED_END -->*
+*This profile README is automatically updated using GitHub Actions - Last updated: <!-- LAST_UPDATED_START -->2026-05-25<!-- LAST_UPDATED_END -->*
 
 **Statistics:**
 - Public Repositories: ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=repos&query=public_repos&url=https://api.github.com/users/ambicuity&style=for-the-badge)
