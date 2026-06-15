@@ -82,9 +82,18 @@ I am a Distributed Systems Engineer holding a Master's degree from Boston Univer
 
 All my public repositories are showcased below and automatically updated! Each project represents a journey of learning, innovation, and contribution to the developer community.
 
-### Repository Showcase
+### Latest Public Repositories
 
-*Repository showcase will appear here once public repositories are available*
+| Repository | Description | Language | Stars | Forks |
+|---------------|-----------------|-------------|----------|----------|
+| [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
+| [**Tech-Blog**](https://github.com/ambicuity/Tech-Blog) | Welcome to the source code for my personal engineering blog,... | `Python` | 0 | 1 |
+| [**KINDX**](https://github.com/ambicuity/KINDX) | Local-first hybrid cli search engine (BM25 + Vector) for per... | `TypeScript` | 0 | 3 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 25 | 1 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 37 | 25 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 1 | 0 |
+
+*Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
 </div>
 
