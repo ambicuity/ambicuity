@@ -86,12 +86,12 @@ All my public repositories are showcased below and automatically updated! Each p
 
 | Repository | Description | Language | Stars | Forks |
 |---------------|-----------------|-------------|----------|----------|
-| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 42 | 24 |
+| [**New-Grad-Jobs**](https://github.com/ambicuity/New-Grad-Jobs) | Welcome to New-Grad Jobs, a curated repository designed to h... | `Python` | 136 | 24 |
 | [**Weather**](https://github.com/ambicuity/Weather) | No description | `N/A` | 0 | 0 |
-| [**image-download-batch**](https://github.com/ambicuity/image-download-batch) | Image Download - Batch — discover, filter, and batch-downloa... | `JavaScript` | 0 | 0 |
 | [**Weather-V2**](https://github.com/ambicuity/Weather-V2) | No description | `Python` | 0 | 0 |
-| [**flerapii**](https://github.com/ambicuity/flerapii) | A browser extension for unified management of New API-compat... | `TypeScript` | 0 | 1 |
-| [**ambicuity**](https://github.com/ambicuity/ambicuity) | No description | `N/A` | 0 | 0 |
+| [**Awesome-MICCAI-2026**](https://github.com/ambicuity/Awesome-MICCAI-2026) | This repository automatically discovers and organizes MICCAI... | `Python` | 34 | 3 |
+| [**dataset-health-monitor**](https://github.com/ambicuity/dataset-health-monitor) | Dataset Health Monitor is a "CI for datasets" - a production... | `Python` | 1 | 0 |
+| [**awesome-failed-ml-experiments**](https://github.com/ambicuity/awesome-failed-ml-experiments) | Learning from failures is one of the most valuable skills in... | `Python` | 0 | 0 |
 
 *Showing 6 of 8 public repositories - automatically updated via GitHub Actions*
 
