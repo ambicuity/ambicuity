@@ -2,7 +2,7 @@
 
 # Hello, I'm Ritesh Rana
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems;AI+Infrastructure;Reliable+Backend+Systems" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Distributed Systems Engineer holding a Master's degree from Boston University. I specialize in cloud-native architectures, container orchestration, and high-performance backend systems. When I'm not writing production code, I'm usually architecting infrastructure or building out my bare-metal homelab.
+I am a Software Engineer focused on distributed systems, AI infrastructure, and reliable backend systems, with a Master's degree from Boston University. I specialize in cloud-native architectures, container orchestration, and high-performance backend systems. When I'm not writing production code, I'm usually architecting infrastructure or building out my bare-metal homelab.
 
 - **Currently scaling:** Distributed machine learning orchestration and backend infrastructure.
 - **Deep-diving into:** eBPF, Advanced Kubernetes Networking, and Rust.
